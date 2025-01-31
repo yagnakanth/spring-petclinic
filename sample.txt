@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 gdhghgdt
 
 gagkglkwdje
+=======
+gdhghgdte
+
+gjgsjgjgdjgJJGJGDJWQ
+>>>>>>> 1d61b83 (Update sample.txt)
