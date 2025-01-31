@@ -6,4 +6,9 @@ gagkglkwdje
 gdhghgdte
 
 gjgsjgjgdjgJJGJGDJWQ
+<<<<<<< HEAD
 >>>>>>> 1d61b83 (Update sample.txt)
+=======
+gdjdjqwgjd
+gxjsagdjgJAGEJxwjd
+>>>>>>> 480a2084170b2744c1cfe3744a3545ede1c16f2c
